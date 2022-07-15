@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recycle Mapp</string>
+    <string name="edit_text_hint_email">Email</string>
+    <string name="edit_text_hint_password">Şifre</string>
+    <string name="login_button">Giriş Yap</string>
+    <string name="dont_have_account_text">Henüz hesabın yok mu? <b>Buraya dokun!</b></string>
+    <string name="invalid_email_error">Geçersiz email formatı</string>
+    <string name="empty_password_error">Şifre girin</string>
+    <string name="password_length_error">Şifre en az 6 karakterden oluşmalıdır.</string>
+    <string name="progress_dialog_please_wait">Lütfen bekleyin</string>
+    <string name="progress_dialog_creating_account">Hesabınız oluşturuluyor...</string>
+    <string name="account_created_succesfuly">Hesap oluşturulmuştur</string>
+    <string name="signup_button">Hesap Oluştur</string>
+    <string name="logged_in_succesfuly">Başarılı Giriş</string>
+    <string name="edit_text_hint_name_surname">Ad Soyad</string>
+    <string name="gps_network_not_enabled">GPS Açık Değil</string>
+    <string name="open_location_settings">GPS Ayarlarını Aç</string>
+    <string name="Cancel">Geri</string>
+    <string name="fab_menu">Geri Dönüşüm Kutusu Ekle</string>
+    <string name="fab_send">Kaydet</string>
+    <string name="spinner_gun_prompt">Geri Dönüşüm Kutusu Tipini Seçiniz</string>
+    <string name="fab_display_locs">Konumları Görüntüle</string>
+    <string name="fab_image">Seçilen Kutunun Fotografı</string>
+    <string name="alert_map">Çöp kutusunun fotoprafını görmek ister misiniz?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayir</string>
+    <string name="OK">TAMAM</string>
+    <string name="clearAll">Hepsini Temizle</string>
+    <string name="validatePromtBin">Çöp kutusu tipi seçmek zorundasınız!</string>
+    <string name="googleSignSuccess">Başarılı Google Girişi</string>
+    <string name="title_activity_maps" translatable="false">Ana Ekran</string>
+    <string name="ERROR">HATA</string>
+    <string name="permissionDenied">Izin Reddedildi</string>
+    <string name="themeString">Tema</string>
+</resources>
